@@ -8,3 +8,7 @@
     * _DEC 2017 - JUNE 2018, Freelance_: Implemented online service (medicine reservation) uteka.ru & m.uteka.ru. Techs used: HTML, SCSS, Vuejs
     * _AUG 2018 - DEC 2019, HYS Enterprise_: Implemented internal service for company. Techs used: 
   HTML, SCSS, JS, React
+7. **Education**: 
+    * Master of Computer Applications (M.C.A.), Computer science, Odessa National Maritime University
+    * RS School React course
+8. **English**: Intermediate level
